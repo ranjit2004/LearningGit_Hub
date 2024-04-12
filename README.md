@@ -4,3 +4,7 @@ I am learning Git.
 Author - Ranjit
 <br>
 I learn git to push my code.
+<br>
+<hr>
+<br>
+I am trying to add a horizontal line.
